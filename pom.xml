@@ -15,7 +15,7 @@
 	
 	<groupId>net.codejava.customer.v2</groupId>
 	<artifactId>lib-example-v2</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>lib-example-v2</name>
 	<description>Lib V2</description>
 	
