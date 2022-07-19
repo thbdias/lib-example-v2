@@ -35,6 +35,14 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	
+	<distributionManagement>
+	   <repository>
+	     <id>github</id>
+	     <name>GitHub thbdias Apache Maven Packages</name>
+	     <url>https://maven.pkg.github.com/thbdias/lib-example-v2</url>
+	   </repository>
+	</distributionManagement>
 
 	<build>
 		<plugins>
